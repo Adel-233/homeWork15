@@ -1,0 +1,31 @@
+.btn-primary {
+    padding: 5px 15px;
+}
+
+header{
+    height: 600px;
+    background-image: url(../img/bg-masthead.jpg);
+    background-size: cover;
+}
+
+.form-control{
+    padding: 10px 150px;    
+}
+
+
+.inf{
+    background-color: rgba(255, 255, 255, 0.549);
+}
+
+.inf i{
+    font-size: xx-large;
+}
+
+.fully{
+    height: 1400px;
+}
+
+.about{
+    height: 100px;
+    background-color: rgb(248, 249, 250) !important;
+}
